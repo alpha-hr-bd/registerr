@@ -1,1 +1,8 @@
-
+{
+  "owner": {
+    "username": "alpha-hr-bd"
+  },
+  "records": {
+    "CNAME": "alpha-hr-bd.github.io"
+  }
+}
